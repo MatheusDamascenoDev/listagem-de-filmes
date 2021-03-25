@@ -1,5 +1,5 @@
 # listagem-de-filmes
-Aplicaçao para listagem de filmes
+Aplicaçao para listagem de filmes na qual consome uma api para colocar os filmes.
 <ul>Para rodar o codigo</ul>
 <li>Clone o codigo ou baixe</li>
 <li>De um yarn no terminal</li>
