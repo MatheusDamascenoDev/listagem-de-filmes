@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "webpack serve",
     "server": "json-server server.json --port 3333",
-    "build": "cross-env NODE_ENV=production webpack",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "build": "react build --output public"
   },
   "dependencies": {
     "axios": "^0.21.1",
